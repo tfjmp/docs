@@ -6,4 +6,8 @@ After each lecture, the corresponding slide should be pushed to the repo and sug
 The documents are organised by topic rather than chronologically.
 
 You can also find the [timetable](./TimetableByWeekPDF.pdf) and the [coursework instructions](./coursework.pdf).
-If you are looking for the lab sheets, it is [there](https://github.com/bris-sys-sec/labs).
+If you are looking for the lab sheets, they are [here](https://github.com/bris-sys-sec/labs).
+
+If you haven't signed up to the Slack team, please read the [Slack instructions](slack.pdf) and join.
+This will be used for questions, in place of the old CS Forum.
+
